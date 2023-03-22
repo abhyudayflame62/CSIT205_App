@@ -1,0 +1,26 @@
+Project Schedule
+
+Tools being used are Slack and Notion.
+
+Our tentative meeting schedule is as described below: -
+
+We will be using slack to keep in touch and Notion to track the progress of our application daily. 
+
+Sprint 1
+
+Duration: 2 weeks (March 24th - April 7th)
+Iteration 1: March 24th - March 28th
+Iteration 2: March 29th - April 2nd
+Iteration 3: April 2nd - April 7th
+Scrum meeting 1: March 25th [at 9pm]
+Scrum meeting 2: April 1st [at 9pm]
+Scrum meeting 3: April 7th [at 9pm]
+
+Sprint 2
+Duration: 1.5 - 2 weeks (April 8th - April 22nd)
+Iteration 1: April 8th - April 12th
+Iteration 2: April 13th - April 18th
+Iteration 3: April 18th - April 22nd
+Scrum meeting 1: April 12th [at 9pm]
+Scrum meeting 2: April 18th [at 9pm]
+Scrum meeting 3: April 21st [at 9pm]
